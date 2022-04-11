@@ -10,4 +10,6 @@ int main() {
 	
 	*ptr = 10;
 	printf("x is %d and pointer value is %d\n", x, *ptr);
+	return 0;
+	
 }
